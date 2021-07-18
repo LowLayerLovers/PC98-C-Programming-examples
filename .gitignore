@@ -1,0 +1,10 @@
+.vscode
+.DS_Store
+*.o
+*.com
+*.COM
+*.exe
+*.EXE
+*.out
+DST.BMP
+*~
